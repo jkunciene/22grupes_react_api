@@ -1,7 +1,9 @@
+import ProductsList from "./components/productsList/ProductsList";
+
 function App() {
   return (
     <div>
-      veikia
+      <ProductsList/>
     </div>
   );
 }
